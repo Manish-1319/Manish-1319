@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Manish-1319
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Java & DSA.
 - 💞️ I’m looking to collaborate on LinkedIn. 
