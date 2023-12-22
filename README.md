@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manish-1319
+- 👋 Hi, I’m Manish Singh
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java & DSA.
+- 🌱 I’m currently learning DSA with Java.
 - 💞️ I’m looking to collaborate on LinkedIn. 
